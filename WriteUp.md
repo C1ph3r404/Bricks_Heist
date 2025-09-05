@@ -39,7 +39,7 @@ Found Out:[**CVE-2024-25600.py**](https://github.com/K3ysTr0K3R/CVE-2024-25600-E
 ```bash
 python3 Downloads/CVE-2024-25600.py --url https://bricks.thm
 ```
-![apacheshell](screenshots/apaches.png)  
+![apacheshell](screenshots/apacheshell.png)  
 
 Right now this is just a web shell that is the input is going through a php code that is being run on a server.  
 Getting a reverse shell from web shell:  
