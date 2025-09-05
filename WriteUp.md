@@ -5,7 +5,7 @@
 ## 🔍 Enumeration
 
 ### Nmap Scan
-Pro tip: scan for all open port then to a detailed scan on open ones  
+💡Pro tip: scan for all open port then to a detailed scan on open ones  
 ```bash
 nmap -p- --min-rate=2000 -oN allport.nmap $IP
 ```
