@@ -14,7 +14,7 @@ nmap -sC -sV -vv -p$1, $2, $3 -oN detaile.nmap $IP
 ```
 ![nmap](screenshots/nmap1.png)  
 ![nmap](screenshots/nmap2.png)   
-Open PORTS: 22, 80, 443  
+Open PORTS: 22, 80, 443, 3306   
 
 ### PORT 443
 Note: add `$MACHINE-IP  bricks.thm` to /etc/hosts  
