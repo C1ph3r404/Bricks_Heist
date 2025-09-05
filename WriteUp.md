@@ -74,10 +74,10 @@ cd /lib/NetworkManager
 ```
 ![miner](screenshots/miner.png)  
 5.Wallet adresss  
-Using cyberChef to decode a doubly encoded base 64 hex. We get two bc adresses. Used blockchain to verify them;
-![adress](screenshots/adress1.png) 
-![adress](screenshots/adress2.png)  
-6.Threat Group  
+Using cyberChef to decode a doubly encoded base 64 hex. We get two bc adresses. Used blockchain to verify them;  
+![adress](screenshots/adress1.png)   
+![adress](screenshots/adress2.png)   
+6.Threat Group   
 Researching about the bc wallet address on google + chatGPT
 
 
