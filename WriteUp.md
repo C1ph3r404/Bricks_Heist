@@ -17,9 +17,9 @@ nmap -sC -sV -vv -p$1, $2, $3 -oN detaile.nmap $IP
 Open PORTS: 22, 80, 443  
 
 ### PORT 443
-Note: add `$MACHINE-IP  bricks.thm` to /etc/hosts
-![web](screenshots/web1.png)  
-![web](screenshots/web2.png) 
+Note: add `$MACHINE-IP  bricks.thm` to /etc/hosts  
+![web](screenshots/web1.png)   
+![web](screenshots/web2.png)   
 checked a few directories/files like `/robot.txt` `wp-admin` but nothing useful
 
 ### WPSCAN
