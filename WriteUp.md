@@ -30,7 +30,7 @@ wpscan --url https://brick.thm --disable-tls-checks
 ![wpscan](screenshots/wp2.png)  
 
 From the scan we found out that its using `Bricks theme V 1.9.5`. After searchin gfor potential exploits for this on google  
-Found Out:![CVE-2024-25600.py](https://github.com/K3ysTr0K3R/CVE-2024-25600-EXPLOIT/blob/main/CVE-2024-25600.py)  
+Found Out:[**CVE-2024-25600.py**](https://github.com/K3ysTr0K3R/CVE-2024-25600-EXPLOIT/blob/main/CVE-2024-25600.py)  
 
 ---
 ## 💥Exploitation
